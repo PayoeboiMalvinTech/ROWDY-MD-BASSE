@@ -25,4 +25,4 @@ l(e)
 }
 });
 
-> *_Created by_* 👨🏼‍💻 :- *_Sl Nethu Max Yt_*
+// *_Created by_* 👨🏼‍💻 :- *_Sl Nethu Max Yt_*
