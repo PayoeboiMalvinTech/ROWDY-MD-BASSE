@@ -144,7 +144,7 @@ cmd({
                                             document: { url: downloadUrl },
                                             mimetype: "video/mp4",
                                             fileName: `NBTxMADHUSITH | ${selectedEpisode.title}.mp4`,
-                                            jpegThumbnail: await (await fetch(selectedEpisode.imageUrl)).buffer(),,
+                                            jpegThumbnail: await (fetch(selectedEpisode.imageUrl)).buffer(),,
                                             caption: `${selectedEpisode.title} |  Powered By NBTxMADHUSITH\n\n> ＱＵＥＥＮ-ＺＡＺＩＥ ＭＤ-ｖ3`
                                         });
 
