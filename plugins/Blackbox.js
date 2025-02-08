@@ -14,7 +14,7 @@ const axios = require('axios');
 // THENU - MD
 
 
-```cmd({
+cmd({
     pattern: "blackbox",
     alias: ['bb', 'ai-chat', 'blackai'],
     react: '🤖',
