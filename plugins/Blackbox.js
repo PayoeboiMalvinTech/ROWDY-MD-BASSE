@@ -47,7 +47,7 @@ Examples:
         const query = args.join(" ");```
 
         ```// Send processing message
-        const processingMessage = await reply(````🧠 *Processing Query:* \n_"${query}"_\n\n⏳ Thinking...`);
+        const processingMessage = await reply(`🧠 *Processing Query:* \n_"${query}"_\n\n⏳ Thinking...`);
 
         try {
             // Encode query for URL
